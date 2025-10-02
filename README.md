@@ -2,5 +2,6 @@
 
 My first Odin Project on HTML!
 
+If you need a web with a recipe about make "Cheesecake and Tacos"
 
-If you need a web with a recipe about make "Arroz con Pollo"
+This page is an Odin path project, using basic HTML elements.
